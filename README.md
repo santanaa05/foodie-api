@@ -5,13 +5,13 @@
 1. Instale as dependências:
 
    ```bash
-   npm i
+   npm install
    ```
 
 2. Inicie o app no ambiente web com o expo:
 
    ```bash
-    npm run web
+    npx expo start
    ```
 
 ## API utilizada
