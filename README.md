@@ -1,6 +1,6 @@
 # foodie-api
 
-## Como inciar o projeto
+## Como iniciar o projeto
 
 1. Instale as dependências:
 
